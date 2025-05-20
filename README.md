@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiiranoK
 - 👀 I’m interested in machine learning, game design, automation.
-- 🌱 I’m currently learning c#, Java and JS.
-- 📫 Send me an email: gameovercore@outlook.com
+- 🌱 I’m currently learning c#.
+- 📫 Send me an email: richardcabraloliveira@outlook.com
 
 <!---
 HiiranoK/HiiranoK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
